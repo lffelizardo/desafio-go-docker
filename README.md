@@ -21,10 +21,10 @@ docker build -t <seu-user>/fullcycle .
 
 # Pull 
 ```
-docker pull lfernandes-felizardo/fullcycle
+docker pull leandrojpjg/fullcycle
 ```
 
 # Executar o container
 ```
-docker run --rm lfernandes-felizardo/fullcycle
+docker run --rm leandrojpjg/fullcycle
 ```
